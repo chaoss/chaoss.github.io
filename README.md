@@ -1,7 +1,7 @@
 [chaoss.github.io](https://chaoss.github.io/)
 =============================================
 
-[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 GitHub web presence for the CHAOSS Project. Jekyll-based site with a blog, innovation experiments, documentation, and more.
 
@@ -15,4 +15,4 @@ Stay tuned.
 
 ## Legal
 
-[BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause).
+[MIT License](https://opensource.org/licenses/MIT).
